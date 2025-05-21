@@ -19,7 +19,7 @@ A lightweight C# console application for monitoring domain availability and resp
 
 2. Enter the domain you want to monitor when prompted:
    ```
-   Enter the domain to monitor: example.com
+   Enter the domain to monitor: app.glassix.com
    ```
 
 3. The application will start monitoring the domain, displaying:
